@@ -1,0 +1,15 @@
+name: 2025MathSoc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.11
+  - NumPy=1.26.4
+  - Matplotlib=3.10.0
+  - seaborn=0.13.2
+  - sympy=1.13.1
+  - ipykernel=6.17.1
+
+# conda env create -f environment.yml
+
+# into setting user json
+# "python.condaPath": "/opt/homebrew/Caskroom/miniforge/base/bin/python"
