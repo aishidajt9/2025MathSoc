@@ -5,12 +5,12 @@ Notes for 2025 mathematical sociology lecture
 
 ## 利用方法
 
-1. 本リポジトリをローカルにクローンする
-2. google colaboratory (https://colab.research.google.com/) 上で本リポジトリを指定して，ノートブックを実行する．
+1. 本リポジトリをクローンして，ローカル環境で実行する
+2. google colaboratory (https://colab.research.google.com/) 上で本リポジトリを指定して，ノートブックを実行する
 ```
 https://github.com/aishidajt9/2025MathSoc
 ```
-3. 以下のリンクから直接Colabで実行
+3. 以下のリンクから直接Colabで実行する
 - 5章：2025MathSoc_iterated_game.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aishidajt9/2025MathSoc/blob/master/2025MathSoc_iterated_game.ipynb)
 - 6章：2025MathSoc_mixedNash.ipynb
